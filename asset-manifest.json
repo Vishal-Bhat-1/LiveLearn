@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/LiveLearn/static/css/main.1dec03cc.css",
+    "main.js": "/LiveLearn/static/js/main.35b79c3a.js",
+    "static/media/t5.png": "/LiveLearn/static/media/t5.e8fe16caeb912b32af27.png",
+    "static/media/t4.png": "/LiveLearn/static/media/t4.77eb74246db8415f3533.png",
+    "static/media/English.png": "/LiveLearn/static/media/English.08ec147c640df9cfd00e.png",
+    "static/media/About2.png": "/LiveLearn/static/media/About2.9f8be07b7fee51d674e4.png",
+    "static/media/Math.png": "/LiveLearn/static/media/Math.dfc06a6d416551f19276.png",
+    "static/media/Contact.png": "/LiveLearn/static/media/Contact.5e9c7ac12b91c7eddc48.png",
+    "static/media/thirty.png": "/LiveLearn/static/media/thirty.e629987eac70ee8c97d4.png",
+    "static/media/lowR.png": "/LiveLearn/static/media/lowR.9bf3909b7afb28db7e4d.png",
+    "static/media/twenty.png": "/LiveLearn/static/media/twenty.13fb27e2c527328e0f46.png",
+    "static/media/twenty5.png": "/LiveLearn/static/media/twenty5.6a99fd64283f9a8ed70b.png",
+    "static/media/Science.png": "/LiveLearn/static/media/Science.fb33a5e1011b9a246015.png",
+    "static/media/midR.png": "/LiveLearn/static/media/midR.ed9633712af861ea77ae.png",
+    "static/media/bookbt.png": "/LiveLearn/static/media/bookbt.166961e6392526d927fb.png",
+    "static/media/rating.png": "/LiveLearn/static/media/rating.a6fb180bbfbd5af28ad0.png",
+    "static/media/Madge.png": "/LiveLearn/static/media/Madge.8b6c9f7bed5ccd403596.png",
+    "static/media/Terry.png": "/LiveLearn/static/media/Terry.843ade4b091c98bea966.png",
+    "static/media/Harry.png": "/LiveLearn/static/media/Harry.b6016800b87d3b516b34.png",
+    "static/media/Jack.png": "/LiveLearn/static/media/Jack.fcb10d4e23c436fa9a38.png",
+    "static/media/Alma.png": "/LiveLearn/static/media/Alma.96acecbc0be7eaae29ef.png",
+    "static/media/Alfred.png": "/LiveLearn/static/media/Alfred.af16bc5c4fe4903ade69.png",
+    "static/media/Chat.png": "/LiveLearn/static/media/Chat.8b100c1881aebd9fad51.png",
+    "static/media/t1.png": "/LiveLearn/static/media/t1.6e7b4a0bdc9afed1f1c1.png",
+    "static/media/t2.png": "/LiveLearn/static/media/t2.0ccd791d1424ff760856.png",
+    "static/media/t3.png": "/LiveLearn/static/media/t3.68464b72c72fe5866076.png",
+    "index.html": "/LiveLearn/index.html",
+    "main.1dec03cc.css.map": "/LiveLearn/static/css/main.1dec03cc.css.map",
+    "main.35b79c3a.js.map": "/LiveLearn/static/js/main.35b79c3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dec03cc.css",
+    "static/js/main.35b79c3a.js"
+  ]
+}
